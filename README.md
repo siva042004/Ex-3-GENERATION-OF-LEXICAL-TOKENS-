@@ -1,7 +1,7 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
 # DATE: 21.02.24
-# NAME: Akash A
-# REGISTER NUMBER: 212221040010
+# NAME: sivaragul.m
+# REGISTER NUMBER: 212221040155
 # AIM:
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM:
